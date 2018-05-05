@@ -1,4 +1,4 @@
-FROM python:3.4.4
+FROM python:3.6
 MAINTAINER "Pedro Pimenta" <pedro@pontotel.com.br>
 
 ENV CRONUSR_HOME /opt/cronusr
